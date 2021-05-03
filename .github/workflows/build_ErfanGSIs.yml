@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hotaMigrate_900_9/b7/v3/04de6b93b0c44543996553c2fe3486ad/full/update_full_base.zip
+  ROM_URL: http://bigota.d.miui.com/9.9.2/miui_MIPLAY_9.9.2_06af52cf3d_8.1.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
